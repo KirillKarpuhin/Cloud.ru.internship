@@ -1,13 +1,13 @@
 Этот репозиторий содержит скрипты для автоматизированного тестирования веб-страницы с использованием Selenium WebDriver Pytest и программу на Python.
 
-# Требования
+### Требования
 Python 3.13.1 или выше
 Pytest 8.3.5 или выше
 Selenium WebDriver 4.28.1 или выше
 Google Chrome 136.0.7103.93 или выше
 ChromeDriver 136.0.7103.92 или выше
 
-## Установка
+### Установка
 Установите Python с официального сайта: https://www.python.org/downloads/
 Установите Pytest с помощью pip в командной строке: pip install pytest
 Установите Selenium WebDriver с помощью pip: pip install selenium
