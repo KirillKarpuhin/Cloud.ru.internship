@@ -14,14 +14,14 @@
 - Скачайте и установите Google Chrome с официального сайта: https://www.google.com/chrome/
 - Скачайте и установите ChromeDriver с официального сайта: https://chromedriver.chromium.org/downloads
 
-Бибилотеки: 
+### Бибилотеки: 
 - Pytest: import pytest - библиотека для написания и запуска тестов.
 - Selenium WebDriver: from selenium import webdriver - библиотека для автоматизации веб-браузеров.
 - Selenium WebDriver: from selenium.webdriver.common.by import By - модуль для работы с локаторами элементов на странице.
 - Selenium WebDriver: from selenium.webdriver.support.ui import WebDriverWait - модуль для ожидания загрузки элементов на странице.
 - Selenium WebDriver: from selenium.webdriver.support import expected_conditions as EC - модуль для работы с ожидаемыми условиями (например, загрузка страницы).
 
-Запуск text_example.py и programma.py:
+### Запуск text_example.py и programma.py:
 1. Клонировать репозиторий: git clone https://github.com/KirillKarpuhin/Cloud.ru.internship.git
 Настройка окружения
 Добавьте путь к ChromeDriver в переменную среды PATH.(если это требуется)
