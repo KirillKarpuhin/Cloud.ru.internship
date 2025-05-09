@@ -22,7 +22,7 @@ Selenium WebDriver: from selenium.webdriver.support.ui import WebDriverWait - м
 Selenium WebDriver: from selenium.webdriver.support import expected_conditions as EC - модуль для работы с ожидаемыми условиями (например, загрузка страницы).
 
 Запуск text_example.py и programma.py:
-1. Клонировать репозиторий: git clone https://github.com/your-repo/your-project.git
+1. Клонировать репозиторий: git clone https://github.com/your-repo/your-project.git](https://github.com/KirillKarpuhin/Cloud.ru.internship/tree/main
 
 Настройка окружения
 Добавьте путь к ChromeDriver в переменную среды PATH.(если это требуется)
